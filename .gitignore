@@ -1,0 +1,26 @@
+# SQLite db
+database.db
+*.sqlite3
+
+# local files and folders
+data/
+media/
+resouces/
+/statics/
+.ipython/
+*.py[cod]
+
+# ide and text editor files
+**/.DS_Store
+.vscode/
+
+# C extensions
+*.so
+
+# env folders.
+.env
+.venv/
+
+# tests folders.
+.pytest_cache
+.ruff_cache
